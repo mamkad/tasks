@@ -12,3 +12,5 @@ where
 	(common.userid != 14) and (common.Timestamp > '2018-05-11 12:13:05' )
 group by
 	common.eventnumber
+order by 
+	common.Timestamp
