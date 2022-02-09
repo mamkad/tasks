@@ -4,6 +4,9 @@
 ## Задание 2
 [SQL-Скрипт](https://github.com/mamkad/tasks/blob/main/task2.sql)
 
+Чем будет отличаться SQL-запрос, если указанные данные будут храниться в СУБД Oracle?
+Могут быть отличия в синтаксисе написания команд.
+
 ## Задание 3
 [Скрипт](https://github.com/mamkad/tasks/blob/main/task3.ps1)
 
