@@ -1,6 +1,4 @@
 # tasks
-## Задание 1
-
 ## Задание 2
 [SQL-Скрипт](https://github.com/mamkad/tasks/blob/main/task2.sql)
 
